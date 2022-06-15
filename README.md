@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomasz-Niewiadomski
 - 👀 I’m interested in computational methods and their potential for helping us understand how the brain works 
-- 🌱 I’m currently working on my Bachelor thesis focused on the use of a miniature system of oscillators as a reservioir for an Echo State Network.
+- 🌱 I’m currently working on my Bachelor thesis focused on the use of a miniature dynamical system of oscillators acting as nodes in an Echo State Network.
 - 💞️ I’m looking to collaborate on computational projects in Julia
 - 📫 Reach me via : 
     - tomaszniewiadomsky@gmail.com
