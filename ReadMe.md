@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Tomasz-Niewiadomski<br>👀 I’m interested in computational methods and building a truly intelligent system<br>🌱 I’m currently working on my MSc in Scientific Computing, and developing my C++ & MATLAB skills<br>💞️ I’m looking to collaborate on computational / ML projects<br>📫 Reach me via :<br>tomaszniewiadomsky@gmail.com<br>Telegram : @tomaszniewiadomsky
+👋 Hi, I’m @Tomasz-Niewiadomski<br>👀 I’m interested in computational methods and building a truly intelligent system<br>🌱 I’m currently working on my MSc in Machine Learning <br>💞️ I’m looking to collaborate on computational / ML projects<br>📫 Reach me via :<br>tomaszniewiadomsky@gmail.com
 
 
 ## 🌐 Socials:
